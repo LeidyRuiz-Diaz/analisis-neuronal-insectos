@@ -21,6 +21,9 @@ Aquí queda todo mi trabajo del semestre: talleres, laboratorios y proyecto fina
 | Sesión | Qué agregué |
 |---|---|
 | Lab 1 | Variables, listas, diccionarios, `pandas` y primeros prompts |
+| sesión 3| Una neurona, umbral de detección, lista de spikes, separar neuronas, contar spikes  y calcular tasa de disparo
+| Sesión 4|	Espectro de potencia, filtro notch, separación LFP/AP y detección con umbral robusto
+
 
 ## Cómo reproducir los análisis
 
